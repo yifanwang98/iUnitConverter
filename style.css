@@ -1,0 +1,113 @@
+body {
+	margin: 0;
+	padding: 0;
+	min-width: 50em;
+}
+
+.header {
+	text-align: center;
+	font-family: Palatino, Avenir;
+	font-size: 1.4em;
+	font-weight: bold;
+	margin-top: 0.8em;
+	margin-bottom: 0.8em;
+}
+
+.container {
+	background-color: #3498db;
+}
+
+.innerContainer {
+	padding: 3em;
+	text-align: center;
+}
+
+.table {
+	text-align: center;
+	width: 100%;
+}
+
+
+.slogan {
+	text-align: left;
+	font-family: Palatino, Avenir;
+	font-size: 1.5em;
+	font-weight: bold;
+	padding: 0.8em;
+	color: white;
+}
+
+.sloganContainer {
+	margin: 2em;
+}
+
+.updateTitle {
+	text-align: center;
+	font-family: Palatino, Avenir;
+	font-size: 1.5em;
+	font-weight: bold;
+	margin-top: 0.8em;
+	min-width: 35em;
+}
+
+.updateTable {
+	font-family: Palatino, Avenir;
+	font-size: 1.1em;
+	min-width: 45em;
+	line-height: 1.6;
+	width: 100%;
+}
+
+.updateContent {
+	padding-left: 1em;
+}
+
+.updateRight {
+	text-align: right;
+}
+
+.contactContainer {
+	background-image: url("escheresque_ste.png");
+	background-color: black;
+	margin-top: 1em;
+	margin-bottom: 0em;
+	padding: 0;
+}
+
+.support {
+	text-align: center;
+	color: white;
+	font-family: Palatino, Avenir;
+	font-size: 1.5em;
+	padding: 1em;
+}
+
+.email {
+	text-align: center;
+	color: white;
+	font-family: Palatino, Avenir;
+	font-size: 1.05em;
+	padding-bottom: 2em;
+}
+
+.email a:link, a:visited {
+	color: #3498db;
+	text-decoration: none;
+}
+
+.email a:hover {
+	color: #227ABD;
+}
+
+
+.copyright {
+	width: 100%;
+	font-family: Helvetica, "Avenir Next", "Times New Roman";
+	font-size: 0.79em;
+	color: gray;
+	text-align: center;
+	margin-bottom: 0;
+	bottom: 0;
+	padding: 0;
+	letter-spacing: 1px;
+}
